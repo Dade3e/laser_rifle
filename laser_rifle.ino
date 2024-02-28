@@ -14,6 +14,7 @@
 #define AnalogPin 3 //ATTINY 3, NANO A0
 #define LaserPin 0 //ATTINY 0, NANO 2
 #define LaserTime 50
+#define debounce 250
 
 #define debug false
 #define info false
@@ -35,6 +36,7 @@ void loop() {
     max = sensorValue;
   if(sensorValue > (max /3)){
     shot();
+    delay(debounce);
   }
   if(info){
     Serial.print(sensorValue);
