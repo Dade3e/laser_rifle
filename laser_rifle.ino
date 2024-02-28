@@ -15,6 +15,7 @@
 #define LaserPin 0 //ATTINY 0, NANO 2
 #define LaserTime 50
 #define debounce 250
+#define theshold 0.75 // max * theshold; 0 < theshold < 1
 
 #define debug false
 #define info false
@@ -34,7 +35,7 @@ void loop() {
   int sensorValue = analogRead(AnalogPin);
   if(sensorValue > max)
     max = sensorValue;
-  if(sensorValue > (max /3)){
+  if(sensorValue > (max * theshold)){
     shot();
     delay(debounce);
   }
