@@ -10,15 +10,20 @@
 //            GND  4|    |5  PB0 (D 0) pwm0   -> laser
 //                  +----+
 
-
 #define AnalogPin 3 //ATTINY 3, NANO A0
 #define LaserPin 0 //ATTINY 0, NANO 2
-#define LaserTime 50
+#define LaserTime 30
 #define debounce 250
-#define theshold 0.33 // max * theshold; 0 < theshold < 1
+#define theshold 0.20 // max * theshold; 0 < theshold < 1
+
+#define bufferSize 6
 
 #define debug false
 #define info false
+
+int buffer[bufferSize];
+int index = 0;
+int media = 10;
 
 void setup() {
 
@@ -29,20 +34,26 @@ void setup() {
   if(info || debug)
     Serial.begin(115200);
 }
-int max = 10;
 
 void loop() {
   int sensorValue = analogRead(AnalogPin);
-  if(sensorValue > max)
-    max = sensorValue;
-  if(sensorValue > (max * theshold)){
+  if(sensorValue > ( media * theshold)){
     shot();
     delay(debounce);
+  }
+  if(sensorValue > media){
+    buffer[index] = sensorValue;
+    index += 1;
+    int sum = 0;
+    for (int i = 0; i<bufferSize; i++){
+      sum += buffer[i];
+    }
+    media = (sum/bufferSize);
   }
   if(info){
     Serial.print(sensorValue);
     Serial.print(" ");
-    Serial.println(max);
+    Serial.println(media);
   }
   delay(1);
 }
