@@ -41,9 +41,10 @@ void loop() {
     shot();
     delay(debounce);
   }
-  if(sensorValue > media){
+  if(sensorValue > ( media * theshold)){
     buffer[index] = sensorValue;
     index += 1;
+    if(index >= bufferSize) { index = 0; }
     int sum = 0;
     for (int i = 0; i<bufferSize; i++){
       sum += buffer[i];
@@ -52,7 +53,12 @@ void loop() {
   }
   if(info){
     Serial.print(sensorValue);
-    Serial.print(" ");
+    Serial.print(" | ");
+    for (int i = 0; i<bufferSize; i++){
+      Serial.print(buffer[i]);
+      Serial.print(" ");
+    }
+    Serial.print("| ");
     Serial.println(media);
   }
   delay(1);
