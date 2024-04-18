@@ -1,0 +1,10 @@
+switch https://www.digikey.it/en/products/detail/c-k/OS102011MS2QN1/411602
+usb vert https://www.digikey.it/en/products/detail/gct/USB4115-03-C/13557449?s=N4IgjCBcoEwBxVAYygMwIYBsDOBTANCAPZQDaIALGHAMwCcArCIQOw0w0sQC6hADgBcoIAMoCATgEsAdgHMQAX0JgADADYI0ECkgYcBYmUphG9ZiBYNaFJrxCDhYqXMWEAtBUTa0WPIRKQ5HAsdPAg3ApKIDBGAK7YAEbhCkA
+alim https://www.digikey.it/en/products/detail/texas-instruments/BQ21040DBVR/6036340
+attiny85 https://www.digikey.it/en/products/detail/microchip-technology/ATTINY85V-10PU/735471
+mcp1700 3v https://www.digikey.it/en/products/detail/microchip-technology/MCP1700T-3002E-TT/651114
+transistor https://www.digikey.it/en/products/detail/nexperia-usa-inc/MMBT3904-215/1156599
+battery conn https://www.digikey.it/en/products/detail/hirose-electric-co-ltd/DF13C-2P-1-25V-21/1130143?s=N4IgTCBcDaIBYEYwIKwQLoF8g
+
+laser https://www.tme.eu/it/details/dc650-1-3c500-8x25/moduli-laser/picotronic/70114331/
+
