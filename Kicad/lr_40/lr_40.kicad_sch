@@ -1330,7 +1330,7 @@
     )
     (pin "1" (uuid b19f43ed-4493-4432-8010-5b613d168e9b))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR07") (unit 1)
         )
@@ -1355,7 +1355,7 @@
     )
     (pin "1" (uuid bfbe6c27-c084-4828-b582-d9c4a06303e5))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR05") (unit 1)
         )
@@ -1380,7 +1380,7 @@
     )
     (pin "1" (uuid cddea686-eddc-413e-9493-c29ccae606b4))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR09") (unit 1)
         )
@@ -1406,7 +1406,7 @@
     (pin "1" (uuid e8e99d64-5482-4eca-aea9-6e52906ef982))
     (pin "2" (uuid c7939584-30c6-47b2-a255-ccd844aabd93))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "BT2") (unit 1)
         )
@@ -1432,7 +1432,7 @@
     (pin "2" (uuid 55e6a062-15de-4974-b48e-f5d2d49f9117))
     (pin "1" (uuid 75c89636-6986-489a-8cde-ccf554dcdc7b))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R3") (unit 1)
         )
@@ -1459,7 +1459,7 @@
     (pin "3" (uuid d488c88b-f9a7-4673-b0be-470b4f1f4ae1))
     (pin "2" (uuid a9b1d4af-3cd8-47d5-8651-d823ba271913))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "U1") (unit 1)
         )
@@ -1485,7 +1485,7 @@
     (pin "2" (uuid a0024617-98f8-4c94-bfaa-5c64c99a0943))
     (pin "1" (uuid f014f968-c8de-46a1-bd43-16b2b48ea6e5))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "J1") (unit 1)
         )
@@ -1510,7 +1510,7 @@
     )
     (pin "1" (uuid 260cf3ba-8078-4e5c-9553-45460ce2a01b))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR013") (unit 1)
         )
@@ -1536,7 +1536,7 @@
     (pin "1" (uuid c15b1de7-84bf-4619-b6da-1d2fd8b7a8d6))
     (pin "2" (uuid 77aced25-d36b-4c2f-bdd4-a10bcc88ebe0))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R4") (unit 1)
         )
@@ -1566,7 +1566,7 @@
     (pin "6" (uuid 3b010ba5-e5ba-48ff-8be6-54d86e7c14dd))
     (pin "3" (uuid 6cf036fa-64b9-4e75-a738-180a288312bd))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "U3") (unit 1)
         )
@@ -1592,7 +1592,7 @@
     (pin "2" (uuid ca465187-8548-4072-9fa4-b7ac760f2f92))
     (pin "1" (uuid 472bc86b-8f96-4b3a-9f34-1f7c48a0d1c3))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "SW1") (unit 1)
         )
@@ -1618,7 +1618,7 @@
     (pin "1" (uuid 2207186e-8ed6-454e-9065-b5d9e7e1ee0a))
     (pin "2" (uuid cff37901-82d1-4cd1-8634-b3cb3af036d8))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R6") (unit 1)
         )
@@ -1644,7 +1644,7 @@
     (pin "2" (uuid 497e0923-0cdd-4a48-b6b5-52f8959acbcb))
     (pin "1" (uuid 6586447a-493a-4e2a-8f63-f448eeaef25e))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "C6") (unit 1)
         )
@@ -1676,7 +1676,7 @@
     (pin "6" (uuid 1b06f7ae-af81-48b9-b9aa-15340659c9cc))
     (pin "3" (uuid 49d678fa-52c6-4f66-aae5-b329d885888b))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "U2") (unit 1)
         )
@@ -1684,16 +1684,16 @@
     )
   )
 
-  (symbol (lib_id "Switch:SW_DIP_x01") (at 137.16 121.92 90) (unit 1)
+  (symbol (lib_id "Switch:SW_DIP_x01") (at 137.16 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c40eff3-0938-4340-a6e8-ca5381bbea14)
     (property "Reference" "SW3" (at 140.97 120.65 90)
-      (effects (font (size 1.27 1.27)) (justify right))
+      (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SW_DIP_x01" (at 140.97 123.19 90)
-      (effects (font (size 1.27 1.27)) (justify right))
+      (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Button_Switch_THT:SW_CK_JS202011CQN_DPDT_Straight" (at 137.16 121.92 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (at 137.16 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 121.92 0)
@@ -1702,7 +1702,7 @@
     (pin "1" (uuid 250d2325-d49a-486a-9ab4-64a50f7607d8))
     (pin "2" (uuid ef2005ac-a3ff-4dc3-939e-6a96f69038b3))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "SW3") (unit 1)
         )
@@ -1727,7 +1727,7 @@
     )
     (pin "1" (uuid 9c5ed576-7d19-45a6-8960-fb3f8246d16f))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR010") (unit 1)
         )
@@ -1753,7 +1753,7 @@
     (pin "2" (uuid 5730ae9e-e783-45e9-8d66-e5aa8b7b69ca))
     (pin "1" (uuid 39cd1d23-a0f3-4a7e-951e-09dd16b7b2f0))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R8") (unit 1)
         )
@@ -1778,7 +1778,7 @@
     )
     (pin "1" (uuid f4f532f5-1312-4731-9d27-a57ef05c4e9f))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR012") (unit 1)
         )
@@ -1803,7 +1803,7 @@
     )
     (pin "1" (uuid 0e1fc80d-4848-474c-9f29-e6fef5d56cf4))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR08") (unit 1)
         )
@@ -1828,7 +1828,7 @@
     )
     (pin "1" (uuid 6f5c2e6d-61bb-4c81-9269-ce028384f7b8))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR011") (unit 1)
         )
@@ -1854,7 +1854,7 @@
     (pin "2" (uuid b9e31e4c-1f5a-4777-99e7-0354f653bf80))
     (pin "1" (uuid 2f447821-5363-4b8e-9c12-2d2944d365b0))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "C4") (unit 1)
         )
@@ -1879,7 +1879,7 @@
     )
     (pin "1" (uuid d5be488d-7158-4256-8b84-d5c6221fd436))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR04") (unit 1)
         )
@@ -1905,7 +1905,7 @@
     (pin "1" (uuid 239a9a9e-5912-41af-90c5-88d326caaeb2))
     (pin "2" (uuid 94f976c0-3b52-4054-95db-ca30c87e7f42))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "C3") (unit 1)
         )
@@ -1932,7 +1932,7 @@
     (pin "3" (uuid 78f391ed-24e1-408b-9958-41cc11037c5e))
     (pin "1" (uuid 9ff4369e-93f2-43d7-98db-8b788e9d1809))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "Q1") (unit 1)
         )
@@ -1957,7 +1957,7 @@
     )
     (pin "1" (uuid 39ad1631-2702-475b-9cd0-fa328f030581))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR01") (unit 1)
         )
@@ -1983,7 +1983,7 @@
     (pin "2" (uuid 47f55040-97c9-4cf2-8882-28a6ce091bbb))
     (pin "1" (uuid 715605e2-65d9-483d-a27e-c851cb21c97e))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "D1") (unit 1)
         )
@@ -2009,7 +2009,7 @@
     (pin "2" (uuid 5ee9801c-87f9-4b90-b4a1-ad0edca20a0d))
     (pin "1" (uuid 981f6621-c92d-4a07-8adf-f9c9fa2ba6d3))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "D3") (unit 1)
         )
@@ -2034,7 +2034,7 @@
     )
     (pin "1" (uuid 80f37ad7-9052-469d-84e4-29541b18bc25))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR02") (unit 1)
         )
@@ -2059,7 +2059,7 @@
     )
     (pin "1" (uuid d5d36254-66ee-45a7-ae5a-928ab995758e))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR06") (unit 1)
         )
@@ -2085,7 +2085,7 @@
     (pin "2" (uuid 43642d76-0dba-41c4-86a8-e2c7d797b665))
     (pin "1" (uuid 4ef8e7a5-9f00-45e9-bd7a-ac5122ea08e6))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "C2") (unit 1)
         )
@@ -2111,7 +2111,7 @@
     (pin "2" (uuid a5b7e11b-2684-4d60-8f03-0b7268cdc3ae))
     (pin "1" (uuid 81b5d9b5-735b-46a0-90e4-ff75fdc6a186))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R1") (unit 1)
         )
@@ -2137,7 +2137,7 @@
     (pin "1" (uuid 926fb0ae-4e0d-4b20-b303-63a2fb7afd89))
     (pin "2" (uuid 3a7a35fb-0c98-4f64-a447-9a932c0073be))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R7") (unit 1)
         )
@@ -2163,7 +2163,7 @@
     (pin "2" (uuid 626107b2-ccf8-4293-bcb5-ca8846a733eb))
     (pin "1" (uuid 37805446-1cbf-458b-808f-4ffb75b4d920))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "D2") (unit 1)
         )
@@ -2189,7 +2189,7 @@
     (pin "2" (uuid e9b7f4f1-675a-420e-9a50-c050a91a715c))
     (pin "1" (uuid 7e794cba-f603-486b-b167-9448f5d91a35))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "C1") (unit 1)
         )
@@ -2214,7 +2214,7 @@
     )
     (pin "1" (uuid 262ced09-0da5-4075-a742-f1aa73eab986))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "#PWR03") (unit 1)
         )
@@ -2240,7 +2240,7 @@
     (pin "1" (uuid cab37244-fcfd-4a5b-8264-422b7fb05db8))
     (pin "2" (uuid e301ac34-2668-4fbf-ad93-18266b588118))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "SW2") (unit 1)
         )
@@ -2266,7 +2266,7 @@
     (pin "1" (uuid 9f54fdbd-ff0d-4ea0-93c0-02b40b5fe80d))
     (pin "2" (uuid 4a1a614a-86d4-4aba-8411-3326bf54107f))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R5") (unit 1)
         )
@@ -2292,7 +2292,7 @@
     (pin "2" (uuid ba0e5a21-6ba8-4a38-a6cd-6b9b15e7e0e3))
     (pin "1" (uuid 27485426-e1d1-47f8-9735-12abcf82621d))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "R2") (unit 1)
         )
@@ -2323,7 +2323,7 @@
     (pin "S1" (uuid 14f4da35-a3db-4daa-b3f4-6812363561e5))
     (pin "A5" (uuid 270cafc7-4af8-48e4-b6f2-7f704be5c8cb))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "J3") (unit 1)
         )
@@ -2349,7 +2349,7 @@
     (pin "2" (uuid 2a2d37b2-bc6c-4285-ba46-9d5ce35c5282))
     (pin "1" (uuid 0d2c6e6d-d181-41a7-bafc-10640a0d37e3))
     (instances
-      (project "laser_rifle"
+      (project "laser_rifle_40mm.kicad_pro"
         (path "/be349321-04c2-4eb2-9cdd-764ade6a9fb1"
           (reference "C7") (unit 1)
         )
